@@ -1,0 +1,5 @@
+"Profile","age","bmi","smoker","Predicted_Charge","Lower_95_CI","Upper_95_CI"
+"Scenario A: Young Healthy Non-Smoker",25,22,"no",4184.89,3349.69,5020.09
+"Scenario B: Young Healthy Smoker",25,22,"yes",15961.91,14696.63,17227.19
+"Scenario C: Middle-Aged Obese Non-Smoker",45,34,"no",9690.84,8998.93,10382.75
+"Scenario D: Middle-Aged Obese Smoker",45,34,"yes",38075.43,37218.99,38931.88

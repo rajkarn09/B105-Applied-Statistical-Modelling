@@ -1,0 +1,4 @@
+"Assumption","Test_Statistic","P_Value","Conclusion"
+"Heteroscedasticity (Breusch-Pagan)",12.332,"0.1952","No significant heteroscedasticity detected (Homoscedasticity assumed)"
+"Independence (Durbin-Watson)",1.964,"0.2782","No residual autocorrelation (DW ~ 2)"
+"Normality (Shapiro-Wilk)",0.662,"< 2.2e-16","Residuals show deviations in tails"
